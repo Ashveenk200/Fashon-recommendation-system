@@ -1,4 +1,4 @@
-import tensorflow as tf
+import tensorflow 
 import os
 import numpy as np
 from numpy.linalg import norm
